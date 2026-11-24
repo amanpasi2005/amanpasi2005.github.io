@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://amanpasi2005.github.io/sitemap.xml
